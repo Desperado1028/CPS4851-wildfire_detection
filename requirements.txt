@@ -1,0 +1,12 @@
+# 核心依赖
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# 深度学习（二选一或都装）
+torch>=2.0.0
+torchvision>=0.15.0
+onnxruntime>=1.15.0
+
+# 可选
+matplotlib>=3.7.0       # 数据分析
+pillow>=10.0.0          # 图像处理
